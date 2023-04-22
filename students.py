@@ -3,5 +3,8 @@ print("Zurab Kavtaradze")
 print("Saba Gotsiridze")
 print("Irakli Guliashvili")
 print("Natia tabatadze")
+print("Davit Tchkadua")
+print("Salome Samkurashvili")
+
 print("Teimuraz Kviloria")
 print("giorgi injgia")
